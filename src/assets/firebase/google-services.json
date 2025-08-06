@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718988781556",
+    "project_id": "owaajo",
+    "storage_bucket": "owaajo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718988781556:android:c39494b4cd72845c4dbba1",
+        "android_client_info": {
+          "package_name": "com.owaajo.carpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuql6-Oa3WaVi-8CeYM_QCGmD_sA8jPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
